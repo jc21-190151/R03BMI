@@ -13,7 +13,7 @@ namespace R03BMI
         public MainPage()
         {
             InitializeComponent();
-            creater.Text = "JK3A00 吉澤　毅";
+            creater.Text = "JK3A36 三浦　友督";
         }
 
         private void Button_Clicked(object sender, EventArgs e)
